@@ -1,2 +1,2 @@
-# bdhjs
-## gjhg
+# Git and GitHub
+## Создание репозитория
